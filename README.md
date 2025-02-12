@@ -1,4 +1,12 @@
-# Recommended next steps:
+# CarCare Mobile Application
+
+## **Prerequisites**
+Before proceeding, ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## Reccommended Steps
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
 ### To preview and run the project on your device:
